@@ -1,7 +1,10 @@
+import Page from "./Page";
+import Card from "./Card";
 function App() {
   return (
-    <div className="App">
-      lokesh
+    <div >
+      <Page />
+      <Card/>
     </div>
   );
 }

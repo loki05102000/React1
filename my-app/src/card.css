@@ -1,0 +1,9 @@
+.card {
+    background-color: whitesmoke;
+    width: 30vw;
+    height: 40vh;
+    position: absolute;
+    left: 13vw;
+    top: 30vh;
+    font-family: 'Roboto', sans-serif;
+}
